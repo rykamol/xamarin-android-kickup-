@@ -1,0 +1,39 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.v4.widget.SwipeRefreshLayout;obj\Debug\90\res\layout\activity_login.xml
+android.support.v7.widget.CardView;obj\Debug\90\res\layout\activity_site.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\activity_login.xml
+cache-path;E:\Working Directory\AssetApp\AssetManagement\AssetManagement\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+corners;obj\Debug\90\res\drawable\ellipsshape.xml
+EditText;obj\Debug\90\res\layout\activity_login.xml
+external-cache-path;E:\Working Directory\AssetApp\AssetManagement\AssetManagement\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;E:\Working Directory\AssetApp\AssetManagement\AssetManagement\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+gradient;obj\Debug\90\res\drawable\ellipsshape.xml
+GridLayout;obj\Debug\90\res\layout\activity_site.xml
+ImageView;obj\Debug\90\res\layout\activity_login.xml
+ImageView;obj\Debug\90\res\layout\activity_site.xml
+ImageView;obj\Debug\90\res\layout\activity_splash.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;obj\Debug\90\res\layout\activity_login.xml
+LinearLayout;obj\Debug\90\res\layout\activity_site.xml
+LinearLayout;obj\Debug\90\res\layout\activity_splash.xml
+LinearLayout;obj\Debug\90\res\layout\flashlayout.xml
+padding;obj\Debug\90\res\drawable\ellipsshape.xml
+paths;E:\Working Directory\AssetApp\AssetManagement\AssetManagement\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ProgressBar;obj\Debug\90\res\layout\activity_login.xml
+ProgressBar;obj\Debug\90\res\layout\flashlayout.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+shape;obj\Debug\90\res\drawable\ellipsshape.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\activity_site.xml
+TextView;obj\Debug\90\res\layout\flashlayout.xml

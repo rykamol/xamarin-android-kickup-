@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Working Directory\\AssetApp\\AssetManagement\\AssetManagement\\AssetManagement.csproj": {}
+  },
+  "projects": {
+    "E:\\Working Directory\\AssetApp\\AssetManagement\\AssetManagement\\AssetManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Working Directory\\AssetApp\\AssetManagement\\AssetManagement\\AssetManagement.csproj",
+        "projectName": "AssetManagement",
+        "projectPath": "E:\\Working Directory\\AssetApp\\AssetManagement\\AssetManagement\\AssetManagement.csproj",
+        "packagesPath": "C:\\Users\\kamolchandra.roy\\.nuget\\packages\\",
+        "outputPath": "E:\\Working Directory\\AssetApp\\AssetManagement\\AssetManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kamolchandra.roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Microsoft.Net.Http": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[2.2.12, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
